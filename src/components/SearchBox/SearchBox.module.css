@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin-top: 28px;
+}
+
+.input {
+  width: 274px;
+  height: 24px;
+  border-radius: 4px;
+}
